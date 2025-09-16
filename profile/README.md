@@ -1,5 +1,5 @@
 <p style="background: #613CBE; padding: 15px 0;">
-  <img src="/banner.jpg" alt="IDK Brasil logo" style="display: table; margin: 0 auto;">
+  <img src="banner.jpg" alt="270B Banner" style="display: table; margin: 0 auto;">
 </p>
 
 
