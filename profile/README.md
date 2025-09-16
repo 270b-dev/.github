@@ -1,5 +1,5 @@
 <p style="background: #613CBE; padding: 15px 0;">
-  <img src="https://270b.com/wp-content/uploads/2025/07/logo_invert.svg" alt="IDK Brasil logo" height="80" style="display: table; margin: 0 auto;">
+  <img src="/banner.jpg" alt="IDK Brasil logo" style="display: table; margin: 0 auto;">
 </p>
 
 
